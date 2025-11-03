@@ -24,9 +24,9 @@ st.write(
 # Load data
 st.subheader("📂 Data Loading Section")
 
-rainfall_path = st.text_input("Enter Rainfall CSV File Path:", r"C:\Users\Admin\Downloads\RS_Session_258_AU_210_1.csv")
-agriculture_path = st.text_input("Enter Agriculture CSV File Path:",
-                                 r"C:\Users\Admin\Downloads\Total_agriculture_land_holders_Total.csv")
+rainfall_path = st.text_input("Enter Rainfall CSV File Path:", "RS_Session_258_AU_210_1.csv")
+agriculture_path = st.text_input("Enter Agriculture CSV File Path:", "RS_Session_258_AU_210_1.csv")
+
 
 try:
     rainfall_df = pd.read_csv(rainfall_path)
