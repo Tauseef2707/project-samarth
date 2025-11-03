@@ -1,10 +1,6 @@
 streamlit
-matplotlib
-seaborn
 pandas
 numpy
+matplotlib
+seaborn
 scikit-learn
-<<<<<<< HEAD
-
-=======
->>>>>>> f209e1e (Fixed CSV file paths for Streamlit deployment)
