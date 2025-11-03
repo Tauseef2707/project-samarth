@@ -1,9 +1,7 @@
-streamlit==1.38.0
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.9.2
-scikit-learn==1.5.2
-Pygments==2.19.2
-markdown-it-py==3.0.0
-rich==14.0.0
+streamlit
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
 
