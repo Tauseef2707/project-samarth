@@ -1,7 +1,7 @@
 # ==========================================================
 # 🌾 PROJECT SAMARTH — Intelligent Q&A System (No spaCy)
 # ==========================================================
-# Author: Tauseef Hussain
+# Author: THO7/4
 # Description:
 # This program creates an intelligent Q&A system that combines
 # agricultural and rainfall data from data.gov.in-like datasets
@@ -227,5 +227,5 @@ if user_query:
 # ----------------------------------------------------------
 st.markdown("---")
 st.markdown("✅ **Analysis Completed Successfully — Project Samarth Prototype**")
-st.markdown("© 2025 | Designed & Developed by **Tauseef Hussain**")
+st.markdown("© 2025 | Designed & Developed by ** THO7/4**")
 
