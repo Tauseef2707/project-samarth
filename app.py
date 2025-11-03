@@ -17,7 +17,7 @@ import streamlit as st
 # SECTION 1: Data Loading
 # ----------------------------------------------------------
 st.title("🌾 Project Samarth — Agricultural and Climate Q&A System")
-st.markdown("### Designed by **Tauseef Hussain**")
+st.markdown("### Designed by **THO7/4**")
 st.write(
     "This system analyzes agriculture and rainfall data to answer natural language questions and visualize trends.")
 
