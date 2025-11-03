@@ -1,7 +1,7 @@
 # ==========================================================
 # 🌾 PROJECT SAMARTH — Intelligent Q&A System (No spaCy)
 # ==========================================================
-# Author: THO7/4
+# Author: Tauseef hussain
 # Description:
 # This program creates an intelligent Q&A system that combines
 # agricultural and rainfall data from data.gov.in-like datasets
@@ -17,7 +17,7 @@ import streamlit as st
 # SECTION 1: Data Loading
 # ----------------------------------------------------------
 st.title("🌾 Project Samarth — Agricultural and Climate Q&A System")
-st.markdown("### Designed by **THO7/4**")
+st.markdown("### Designed by **Tauseef hussain**")
 st.write(
     "This system analyzes agriculture and rainfall data to answer natural language questions and visualize trends.")
 
@@ -227,5 +227,5 @@ if user_query:
 # ----------------------------------------------------------
 st.markdown("---")
 st.markdown("✅ **Analysis Completed Successfully — Project Samarth Prototype**")
-st.markdown("© 2025 | Designed & Developed by ** THO7/4**")
+st.markdown("© 2025 | Designed & Developed by ** Tauseef hussain**")
 
